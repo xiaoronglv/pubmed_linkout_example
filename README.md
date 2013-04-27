@@ -1,6 +1,3 @@
-pubmed_linkout_example
-======================
-
 ## Description
 
 LinkOut is a service of NCBI that allows third parties to link specific NCBI database records to relevant web-accessible resources.  Typically, publishers and other full-text providers use LinkOut to provide links from PubMed records to their online full-text journals.
