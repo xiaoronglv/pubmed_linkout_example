@@ -12,7 +12,7 @@
       <Query>"2072-1439"[ta] AND 2009:2030[dp]</Query>
     </ObjectList>
   </ObjectSelector>
-   <ObjectUrl>
+  <ObjectUrl>
     <Base>http://dx.doi.org/</Base>
     <Rule>&lo.doi;</Rule>
     <Attribute>full-text online</Attribute>
@@ -28,10 +28,42 @@
       <Query>"2219-679X"[ta] AND 2009:2030[dp]</Query>
     </ObjectList>
   </ObjectSelector>
-   <ObjectUrl>
+  <ObjectUrl>
     <Base>http://dx.doi.org/</Base>
     <Rule>&lo.doi;</Rule>
     <Attribute>full-text online</Attribute>
   </ObjectUrl>
+</Link>
+<Link>
+ <LinkId>cjcr</LinkId>
+ <ProviderId>8410</ProviderId>
+ <IconUrl>http://www.jthoracdis.com/public/system/jtd/icon-for-pubmed.jpg</IconUrl>
+ <ObjectSelector>
+  <Database>PubMed</Database>
+  <ObjectList>
+    <Query>"1000-9604"[ta] AND 2009:2030[dp]</Query>
+  </ObjectList>
+</ObjectSelector>
+<ObjectUrl>
+  <Base>http://dx.doi.org/</Base>
+  <Rule>&lo.doi;</Rule>
+  <Attribute>full-text online</Attribute>
+</ObjectUrl>
+</Link>
+<Link>
+ <LinkId>qims</LinkId>
+ <ProviderId>8410</ProviderId>
+ <IconUrl>http://www.jthoracdis.com/public/system/jtd/icon-for-pubmed.jpg</IconUrl> 
+ <ObjectSelector>
+  <Database>PubMed</Database>
+  <ObjectList>
+    <Query>"2223-4306"[ta] AND 2009:2030[dp]</Query>
+  </ObjectList>
+</ObjectSelector>
+<ObjectUrl>
+  <Base>http://dx.doi.org/</Base>
+  <Rule>&lo.doi;</Rule>
+  <Attribute>full-text online</Attribute>
+</ObjectUrl>
 </Link>
 </LinkSet>
