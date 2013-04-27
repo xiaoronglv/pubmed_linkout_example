@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE LinkSet PUBLIC "-//NLM//DTD LinkOut 1.0//EN"
+"http://www.ncbi.nlm.nih.gov/projects/linkout/doc/LinkOut.dtd">
+<LinkSet>
+ <Link>
+   <LinkId>jtd</LinkId>
+   <ProviderId>8410</ProviderId>
+   <IconUrl>http://www.jthoracdis.com/public/system/jtd/icon-for-pubmed.jpg</IconUrl>
+   <ObjectSelector>
+    <Database>PubMed</Database>
+    <ObjectList>
+      <Query>"2072-1439"[ta] AND 2009:2030[dp]</Query>
+    </ObjectList>
+  </ObjectSelector>
+   <ObjectUrl>
+    <Base>http://dx.doi.org/</Base>
+    <Rule>&lo.doi;</Rule>
+    <Attribute>full-text online</Attribute>
+  </ObjectUrl>
+</Link>
+<Link>
+  <LinkId>jgo</LinkId>
+  <ProviderId>8410</ProviderId>
+  <IconUrl>http://www.thejgo.org/public/system/jgo/icon-for-pubmed.jpg</IconUrl>
+  <ObjectSelector>
+    <Database>PubMed</Database>
+    <ObjectList>
+      <Query>"2219-679X"[ta] AND 2009:2030[dp]</Query>
+    </ObjectList>
+  </ObjectSelector>
+   <ObjectUrl>
+    <Base>http://dx.doi.org/</Base>
+    <Rule>&lo.doi;</Rule>
+    <Attribute>full-text online</Attribute>
+  </ObjectUrl>
+</Link>
+</LinkSet>
