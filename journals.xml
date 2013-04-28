@@ -37,7 +37,7 @@
 <Link>
  <LinkId>cjcr</LinkId>
  <ProviderId>8410</ProviderId>
- <IconUrl>http://www.jthoracdis.com/public/system/jtd/icon-for-pubmed.jpg</IconUrl>
+ <IconUrl>http://www.thecjcr.org/public/system/cjcr/cjcr-icon-pubmed.jpg</IconUrl>
  <ObjectSelector>
   <Database>PubMed</Database>
   <ObjectList>
@@ -53,7 +53,7 @@
 <Link>
  <LinkId>qims</LinkId>
  <ProviderId>8410</ProviderId>
- <IconUrl>http://www.jthoracdis.com/public/system/jtd/icon-for-pubmed.jpg</IconUrl> 
+ <IconUrl>http://www.amepc.org/public/system/qims/qims-icon-pubmed.jpg</IconUrl> 
  <ObjectSelector>
   <Database>PubMed</Database>
   <ObjectList>
