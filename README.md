@@ -21,4 +21,4 @@ This xml file refer to some journals, such as
 
 1. [Information for Full-Text Providers](http://www.ncbi.nlm.nih.gov/books/NBK3812/)
 2. [Technical Information](http://www.ncbi.nlm.nih.gov/books/NBK3807/)
-3. [出版社通过LinkOut提高期刊影响力](http://www.mednoter.com/archives/657.html)
+3. [出版社通过LinkOut提高期刊影响力](http://mednoter.com/how-to-import-audience-by-pubmed-linkout.html)
